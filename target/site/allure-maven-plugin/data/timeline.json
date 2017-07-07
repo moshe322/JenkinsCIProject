@@ -1,0 +1,20 @@
+{
+  "hosts" : [ {
+    "title" : "TYULIKOVV7",
+    "threads" : [ {
+      "title" : "10144@TYULIKOVV7.main(1)",
+      "testCases" : [ {
+        "uid" : "450f043e48c02b1",
+        "name" : "loginTest",
+        "title" : "Login test",
+        "time" : {
+          "start" : 1499350500322,
+          "stop" : 1499350503906,
+          "duration" : 3584
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      } ]
+    } ]
+  } ]
+}

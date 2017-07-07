@@ -1,0 +1,59 @@
+{
+  "hash" : "e7105c43ada45c9f6e0006854ef1a1d95249231d",
+  "plugins" : {
+    "total" : {
+      "statistic" : {
+        "total" : 1,
+        "passed" : 0,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 1,
+        "broken" : 0
+      },
+      "time" : {
+        "start" : 1499350500322,
+        "stop" : 1499350503906,
+        "duration" : 3584
+      }
+    },
+    "defects" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "count" : 1,
+        "uid" : "99cf1f9c943bddcb",
+        "message" : "AssertionError: The following asserts failed:\n\t3. Entry is displayed for observer\t3. Entry is displayed for observer expected [false] but found [true]",
+        "status" : "FAILED"
+      } ]
+    },
+    "xunit" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "uid" : "1d12da24971ffcf0",
+        "title" : "Surefire suite : Surefire test",
+        "statistic" : {
+          "total" : 1,
+          "passed" : 0,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 1,
+          "broken" : 0
+        }
+      } ]
+    },
+    "behaviors" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "title" : "Login test",
+        "statistic" : {
+          "total" : 1,
+          "passed" : 0,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 1,
+          "broken" : 0
+        }
+      } ]
+    },
+    "environment" : [ ]
+  }
+}

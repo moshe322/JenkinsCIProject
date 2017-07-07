@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: SimpleTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 19.85 sec <<< FAILURE! - in SimpleTest
+loginTest(SimpleTest)  Time elapsed: 3.589 sec  <<< FAILURE!
+java.lang.AssertionError: 
+The following asserts failed:
+	3. Entry is displayed for observer	3. Entry is displayed for observer expected [false] but found [true]
+	at SimpleTest.loginTest(SimpleTest.java:25)
+

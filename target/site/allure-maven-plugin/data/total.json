@@ -1,0 +1,15 @@
+{
+  "statistic" : {
+    "total" : 1,
+    "passed" : 0,
+    "pending" : 0,
+    "canceled" : 0,
+    "failed" : 1,
+    "broken" : 0
+  },
+  "time" : {
+    "start" : 1499350500322,
+    "stop" : 1499350503906,
+    "duration" : 3584
+  }
+}
